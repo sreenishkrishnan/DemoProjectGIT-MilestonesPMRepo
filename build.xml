@@ -26,14 +26,14 @@
   <target name="retrieveUnpackaged">
 
     <delete dir="src" failonerror="true"/>
-    <mkdir dir="src1"/>
+    <mkdir dir="src"/>
 
     <!-- Retrieve the contents into another directory -->
     <sf:retrieve
       username="${sf.username}"
       password="${sf.password}${sf.token}"
       serverurl="${sf.serverurl}"
-      retrieveTarget="src1"
+      retrieveTarget="src"
       unpackaged="${basedir}/package.xml"
     />
 
