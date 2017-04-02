@@ -1,9 +1,5 @@
 public with sharing class Class1 {
- //test
- //test develop
- //test
- //test2
- //test4
+//new change
  public Class1(){
  
  }
