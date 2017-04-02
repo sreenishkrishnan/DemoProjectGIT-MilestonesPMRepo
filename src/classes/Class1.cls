@@ -1,7 +1,5 @@
 public with sharing class Class1 {
- //test
- //test develop
- //I have changed something
+//I am gonna commit tto develop
  public Class1(){
  
  }
