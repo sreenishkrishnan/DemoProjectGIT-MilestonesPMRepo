@@ -5,6 +5,7 @@
 //test7
 //test 8
 //test 9
+//test 10
 public with sharing class Class1 {
 
  public Class1(){  
