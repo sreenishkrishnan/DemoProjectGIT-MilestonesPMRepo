@@ -1,17 +1,8 @@
-//new test
-//test1
-//test2
-//test3
-//test4
-//test5
-//test6
-//test7
-//test8
-//test9
-//test 10
-//test11
-//test12
-//test13
+//This is my first commit for loyalty JIRA 001
+//This is my next commit
+//This is my commit for JIRA 003 for Loyalty
+//Commit for Loyalty JIRa 004
+//thisis a change
 public with sharing class Class1 {
 
  public Class1(){  
